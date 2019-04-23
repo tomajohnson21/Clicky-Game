@@ -9,7 +9,7 @@ function Nav(props) {
             <ul>
                 <li className="brand">
                     <a href="/">
-                        Clicky Game
+                        Click of the Hill
                     </a>
                 </li>
                 <li>

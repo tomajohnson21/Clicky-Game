@@ -1,0 +1,78 @@
+[
+    {
+        "id": 0,
+        "name": "Hank",
+        "image": "./images/hank.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 1,
+        "name": "Peggy",
+        "image": "./images/peggy.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 2,
+        "name": "Bobby",
+        "image": "./images/bobby.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 3,
+        "name": "Dale",
+        "image": "./images/dale.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Bill",
+        "image": "./images/bill.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Boomhauer",
+        "image": "./images/boomhauer.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Kahn",
+        "image": "./images/kahn.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Minh",
+        "image": "./images/minh.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Connie",
+        "image": "./images/connie.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Joseph",
+        "image": "./images/joseph.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Nancy",
+        "image": "./images/nancy.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "John",
+        "image": "./images/john.jpg",
+        "clicked": false
+    }
+
+]
