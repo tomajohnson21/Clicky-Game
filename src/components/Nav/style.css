@@ -16,3 +16,10 @@
     width: 33.3%;
     text-align: center;
 }
+
+.navbar a{ 
+
+    color: white;
+    font-size: 1.5em;
+    font-style: bold;
+}
