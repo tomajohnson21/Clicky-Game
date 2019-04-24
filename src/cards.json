@@ -64,8 +64,8 @@
     },
     {
         "id": 10,
-        "name": "Nancy",
-        "image": "./images/nancy.jpg",
+        "name": "Luanne",
+        "image": "./images/luanne.jpg",
         "clicked": false
     },
     {

@@ -30,17 +30,18 @@ class App extends Component {
 
   handleCardClick = id => {
     let selectedIndex = this.state.cards.findIndex(card => card.id === id);
-    let selectedCard = this.state.cards[selectedIndex];
 
 
-    if(selectedCard.clicked){
+    if(this.state.cards[selectedIndex].clicked){
       alert("You have already clicked this card! Game over!");
       this.newGame();
     } else {
+      
       let score = this.state.currentScore + 1;
       if(score > this.state.highScore){
         this.setState({highScore: score})
       }
+
       this.state.cards[selectedIndex].clicked = true
       this.setState({currentScore: score})
     }
